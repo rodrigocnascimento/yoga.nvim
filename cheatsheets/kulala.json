@@ -1,0 +1,10 @@
+{
+  "title": "KULALA REST CLIENT",
+  "items": [
+    { "keys": "<leader>kr", "action": "Run Request" },
+    { "keys": "<leader>kt", "action": "Toggle Body/Headers" },
+    { "keys": "<leader>ki", "action": "Inspect Request" },
+    { "keys": "[c", "action": "Jump to Previous Request" },
+    { "keys": "]c", "action": "Jump to Next Request" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "title": "OIL EXPLORER",
+  "items": [
+    { "keys": "-", "action": "Subir para o Diret¢rio Pai (Parent)" },
+    { "keys": "<CR>", "action": "Abrir Arquivo / Entrar na Pasta" },
+    { "keys": "<C-h>", "action": "Abrir em Split Horizontal" },
+    { "keys": "<C-v>", "action": "Abrir em Split Vertical" },
+    { "keys": "<C-c>", "action": "Fechar o Explorador" },
+    { "keys": "g.", "action": "Mostrar / Ocultar Arquivos Ocultos" },
+    { "keys": "gs", "action": "Mudar a Ordena‡Æo dos Arquivos" },
+    { "keys": "_", "action": "Abrir Diret¢rio Atual de Trabalho (CWD)" },
+    { "keys": "`", "action": "Mudar o Diret¢rio do Neovim (cd)" },
+    { "keys": "~", "action": "Mudar o Diret¢rio da Aba (tcd)" },
+    { "keys": "gx", "action": "Abrir Arquivo no Sistema Operacional" },
+    { "keys": "g?", "action": "Mostrar Menu de Ajuda do Oil" }
+  ]
+}
