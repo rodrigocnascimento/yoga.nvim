@@ -1,7 +1,7 @@
 return {
   -- O 'dir' aponta para a pasta local onde você tá desenvolvendo o plugin
   -- dir = "~/code/json-cheats.nvim",
-  { url = "https://codeberg.org/rodrigocnascimento/json-cheats.nvim.git" },
+   url = "https://codeberg.org/rodrigocnascimento/json-cheats.nvim.git",
 
   -- Exige que o Telescope carregue antes
   dependencies = { "nvim-telescope/telescope.nvim" },
